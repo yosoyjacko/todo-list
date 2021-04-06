@@ -1,4 +1,4 @@
-
+import Styles from './styles/styles.scss'
 import TodoList from "./components/TodoList";
 
 
