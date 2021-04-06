@@ -1,3 +1,49 @@
+# Practica del dia tres
+
+# creacion de una app de tareas con react.js
+
+Frameworks que se descargaron react-redux, redux y sass
+
+<div align="center"> 
+  <img src="https://github.com/yosoyjacko/todo-list/blob/master/src/images/imagen1.jpg" width="400px"</img> 
+  <img src="https://github.com/yosoyjacko/todo-list/blob/master/src/images/imagen2.jpg" width="400px"</img>
+  <img src="https://github.com/yosoyjacko/todo-list/blob/master/src/images/imagen3.jpg" width="400px"</img>
+  <img src="https://github.com/yosoyjacko/todo-list/blob/master/src/images/imagen4.jpg" width="400px"</img>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
